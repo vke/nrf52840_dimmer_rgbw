@@ -20,7 +20,7 @@ P 2850 3500
 F 0 "U1" H 2850 4081 50  0000 C CNN
 F 1 "TC4427" H 2850 3990 50  0000 C CNN
 F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 2850 3200 50  0001 C CNN
-F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/mic4426.pdf" H 2850 3200 50  0001 C CNN
+F 3 "https://lcsc.com/product-detail/MOS-Drivers_Microchip-Tech-TC4427COA713_C144205.html" H 2850 3200 50  0001 C CNN
 	1    2850 3500
 	1    0    0    -1  
 $EndComp
@@ -31,7 +31,7 @@ P 2850 4950
 F 0 "U2" H 2850 5531 50  0000 C CNN
 F 1 "TC4427" H 2850 5440 50  0000 C CNN
 F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 2850 4650 50  0001 C CNN
-F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/mic4426.pdf" H 2850 4650 50  0001 C CNN
+F 3 "https://lcsc.com/product-detail/MOS-Drivers_Microchip-Tech-TC4427COA713_C144205.html" H 2850 4650 50  0001 C CNN
 	1    2850 4950
 	1    0    0    -1  
 $EndComp
@@ -88,7 +88,7 @@ P 4500 3200
 F 0 "R1" V 4293 3200 50  0000 C CNN
 F 1 "200R" V 4384 3200 50  0000 C CNN
 F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 4430 3200 50  0001 C CNN
-F 3 "~" H 4500 3200 50  0001 C CNN
+F 3 "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0805W8J0201T5E_C25292.html" H 4500 3200 50  0001 C CNN
 	1    4500 3200
 	0    1    1    0   
 $EndComp
@@ -99,7 +99,7 @@ P 4500 3850
 F 0 "R2" V 4293 3850 50  0000 C CNN
 F 1 "200R" V 4384 3850 50  0000 C CNN
 F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 4430 3850 50  0001 C CNN
-F 3 "~" H 4500 3850 50  0001 C CNN
+F 3 "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0805W8J0201T5E_C25292.html" H 4500 3850 50  0001 C CNN
 	1    4500 3850
 	0    1    1    0   
 $EndComp
@@ -110,7 +110,7 @@ P 4500 5300
 F 0 "R4" V 4293 5300 50  0000 C CNN
 F 1 "200R" V 4384 5300 50  0000 C CNN
 F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 4430 5300 50  0001 C CNN
-F 3 "~" H 4500 5300 50  0001 C CNN
+F 3 "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0805W8J0201T5E_C25292.html" H 4500 5300 50  0001 C CNN
 	1    4500 5300
 	0    1    1    0   
 $EndComp
@@ -121,7 +121,7 @@ P 4500 4650
 F 0 "R3" V 4293 4650 50  0000 C CNN
 F 1 "200R" V 4384 4650 50  0000 C CNN
 F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 4430 4650 50  0001 C CNN
-F 3 "~" H 4500 4650 50  0001 C CNN
+F 3 "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0805W8J0201T5E_C25292.html" H 4500 4650 50  0001 C CNN
 	1    4500 4650
 	0    1    1    0   
 $EndComp
@@ -143,7 +143,7 @@ P 6550 1550
 F 0 "C1" H 6665 1596 50  0000 L CNN
 F 1 "4.7uF" H 6665 1505 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 6588 1400 50  0001 C CNN
-F 3 "~" H 6550 1550 50  0001 C CNN
+F 3 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL21A475KBQNNNE_C98192.html" H 6550 1550 50  0001 C CNN
 	1    6550 1550
 	1    0    0    -1  
 $EndComp
@@ -154,7 +154,7 @@ P 7000 1550
 F 0 "C2" H 7115 1596 50  0000 L CNN
 F 1 "0.1uF" H 7115 1505 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 7038 1400 50  0001 C CNN
-F 3 "~" H 7000 1550 50  0001 C CNN
+F 3 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL21B104KBFNNNE_C136621.html" H 7000 1550 50  0001 C CNN
 	1    7000 1550
 	1    0    0    -1  
 $EndComp
@@ -406,7 +406,7 @@ P 8100 1550
 F 0 "C6" H 8215 1596 50  0000 L CNN
 F 1 "4.7uF" H 8215 1505 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 8138 1400 50  0001 C CNN
-F 3 "~" H 8100 1550 50  0001 C CNN
+F 3 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL21A475KBQNNNE_C98192.html" H 8100 1550 50  0001 C CNN
 	1    8100 1550
 	1    0    0    -1  
 $EndComp
@@ -417,7 +417,7 @@ P 8550 1550
 F 0 "C7" H 8665 1596 50  0000 L CNN
 F 1 "0.1uF" H 8665 1505 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 8588 1400 50  0001 C CNN
-F 3 "~" H 8550 1550 50  0001 C CNN
+F 3 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL21B104KBFNNNE_C136621.html" H 8550 1550 50  0001 C CNN
 	1    8550 1550
 	1    0    0    -1  
 $EndComp
@@ -486,7 +486,7 @@ P 1850 4900
 F 0 "R7" H 1920 4946 50  0000 L CNN
 F 1 "10K" H 1920 4855 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 1780 4900 50  0001 C CNN
-F 3 "~" H 1850 4900 50  0001 C CNN
+F 3 "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_SANYEAR-SY0805JN10KP_C380776.html" H 1850 4900 50  0001 C CNN
 	1    1850 4900
 	1    0    0    -1  
 $EndComp
@@ -497,7 +497,7 @@ P 2100 4900
 F 0 "R8" H 2170 4946 50  0000 L CNN
 F 1 "10K" H 2170 4855 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 2030 4900 50  0001 C CNN
-F 3 "~" H 2100 4900 50  0001 C CNN
+F 3 "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_SANYEAR-SY0805JN10KP_C380776.html" H 2100 4900 50  0001 C CNN
 	1    2100 4900
 	1    0    0    -1  
 $EndComp
@@ -523,7 +523,7 @@ P 5400 1150
 F 0 "R9" H 5470 1196 50  0000 L CNN
 F 1 "100K" H 5470 1105 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 5330 1150 50  0001 C CNN
-F 3 "~" H 5400 1150 50  0001 C CNN
+F 3 "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0805W8F1003T5E_C149504.html" H 5400 1150 50  0001 C CNN
 	1    5400 1150
 	1    0    0    -1  
 $EndComp
@@ -534,7 +534,7 @@ P 5400 1700
 F 0 "R10" H 5470 1746 50  0000 L CNN
 F 1 "22K" H 5470 1655 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 5330 1700 50  0001 C CNN
-F 3 "~" H 5400 1700 50  0001 C CNN
+F 3 "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0805W8F2212T5E_C17552.html" H 5400 1700 50  0001 C CNN
 	1    5400 1700
 	1    0    0    -1  
 $EndComp
@@ -545,7 +545,7 @@ P 5050 1700
 F 0 "C4" H 5165 1746 50  0000 L CNN
 F 1 "1uF" H 5165 1655 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 5088 1550 50  0001 C CNN
-F 3 "~" H 5050 1700 50  0001 C CNN
+F 3 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL21B105KBFNNNE_C28323.html" H 5050 1700 50  0001 C CNN
 	1    5050 1700
 	1    0    0    -1  
 $EndComp
@@ -659,9 +659,9 @@ L Device:CP C5
 U 1 1 5E0C0B91
 P 9850 1550
 F 0 "C5" H 9965 1596 50  0000 L CNN
-F 1 "100uF" H 9965 1505 50  0000 L CNN
+F 1 "390uF" H 9965 1505 50  0000 L CNN
 F 2 "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" H 9888 1400 50  0001 C CNN
-F 3 "~" H 9850 1550 50  0001 C CNN
+F 3 "https://lcsc.com/product-detail/Solid-Polymer-Electrolytic-Capacitor_NCC-Nippon-Chemi-Con-APSG250ELL391MJB5S_C133441.html" H 9850 1550 50  0001 C CNN
 	1    9850 1550
 	1    0    0    -1  
 $EndComp
@@ -755,7 +755,7 @@ P 9250 3350
 F 0 "C10" H 9365 3396 50  0000 L CNN
 F 1 "4.7uF" H 9365 3305 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 9288 3200 50  0001 C CNN
-F 3 "~" H 9250 3350 50  0001 C CNN
+F 3 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL21A475KBQNNNE_C98192.html" H 9250 3350 50  0001 C CNN
 	1    9250 3350
 	1    0    0    -1  
 $EndComp
@@ -766,7 +766,7 @@ P 9700 3350
 F 0 "C11" H 9815 3396 50  0000 L CNN
 F 1 "0.1uF" H 9815 3305 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 9738 3200 50  0001 C CNN
-F 3 "~" H 9700 3350 50  0001 C CNN
+F 3 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL21B104KBFNNNE_C136621.html" H 9700 3350 50  0001 C CNN
 	1    9700 3350
 	1    0    0    -1  
 $EndComp
@@ -838,7 +838,7 @@ P 1600 4900
 F 0 "R6" H 1670 4946 50  0000 L CNN
 F 1 "10K" H 1670 4855 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 1530 4900 50  0001 C CNN
-F 3 "~" H 1600 4900 50  0001 C CNN
+F 3 "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_SANYEAR-SY0805JN10KP_C380776.html" H 1600 4900 50  0001 C CNN
 	1    1600 4900
 	1    0    0    -1  
 $EndComp
@@ -858,7 +858,7 @@ P 1350 4900
 F 0 "R5" H 1420 4946 50  0000 L CNN
 F 1 "10K" H 1420 4855 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 1280 4900 50  0001 C CNN
-F 3 "~" H 1350 4900 50  0001 C CNN
+F 3 "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_SANYEAR-SY0805JN10KP_C380776.html" H 1350 4900 50  0001 C CNN
 	1    1350 4900
 	1    0    0    -1  
 $EndComp
@@ -922,7 +922,7 @@ P 2400 6200
 F 0 "C12" V 2148 6200 50  0000 C CNN
 F 1 "0.1uF" V 2239 6200 50  0000 C CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 2438 6050 50  0001 C CNN
-F 3 "~" H 2400 6200 50  0001 C CNN
+F 3 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL21B104KBFNNNE_C136621.html" H 2400 6200 50  0001 C CNN
 	1    2400 6200
 	0    1    1    0   
 $EndComp
@@ -933,7 +933,7 @@ P 2800 6450
 F 0 "L2" V 2990 6450 50  0000 C CNN
 F 1 "10uH" V 2899 6450 50  0000 C CNN
 F 2 "Inductor_SMD:L_Taiyo-Yuden_NR-40xx_HandSoldering" H 2800 6450 50  0001 C CNN
-F 3 "~" H 2800 6450 50  0001 C CNN
+F 3 "https://lcsc.com/product-detail/Inductors-SMD_GLE-GCNR4030-100MC_C439346.html" H 2800 6450 50  0001 C CNN
 	1    2800 6450
 	0    -1   -1   0   
 $EndComp
@@ -952,10 +952,10 @@ $Comp
 L Device:C C13
 U 1 1 5E1C8E2D
 P 3100 6750
-F 0 "C13" H 3215 6796 50  0000 L CNN
-F 1 "0.1uF" H 3215 6705 50  0000 L CNN
+F 0 "C13" H 3150 7000 50  0000 L CNN
+F 1 "0.1uF" H 3150 6900 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 3138 6600 50  0001 C CNN
-F 3 "~" H 3100 6750 50  0001 C CNN
+F 3 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL21B104KBFNNNE_C136621.html" H 3100 6750 50  0001 C CNN
 	1    3100 6750
 	1    0    0    -1  
 $EndComp
@@ -963,10 +963,10 @@ $Comp
 L Device:C C14
 U 1 1 5E1C9F54
 P 3450 6750
-F 0 "C14" H 3565 6796 50  0000 L CNN
-F 1 "4.7uF" H 3565 6705 50  0000 L CNN
+F 0 "C14" H 3500 7000 50  0000 L CNN
+F 1 "4.7uF" H 3500 6900 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 3488 6600 50  0001 C CNN
-F 3 "~" H 3450 6750 50  0001 C CNN
+F 3 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL21A475KBQNNNE_C98192.html" H 3450 6750 50  0001 C CNN
 	1    3450 6750
 	1    0    0    -1  
 $EndComp
@@ -974,37 +974,13 @@ $Comp
 L Device:CP C15
 U 1 1 5E1CAD79
 P 3750 6750
-F 0 "C15" H 3865 6796 50  0000 L CNN
-F 1 "47uF" H 3865 6705 50  0000 L CNN
+F 0 "C15" H 3850 7000 50  0000 L CNN
+F 1 "47uF" H 3850 6900 50  0000 L CNN
 F 2 "Capacitor_Tantalum_SMD:CP_EIA-3528-21_Kemet-B_Pad1.50x2.35mm_HandSolder" H 3788 6600 50  0001 C CNN
 F 3 "https://lcsc.com/product-detail/Tantalum-Capacitors_KEMET-T520B476M010ATE035_C141441.html" H 3750 6750 50  0001 C CNN
 	1    3750 6750
 	1    0    0    -1  
 $EndComp
-$Comp
-L Device:R R15
-U 1 1 5E1CB222
-P 4200 6600
-F 0 "R15" H 4270 6646 50  0000 L CNN
-F 1 "100K" H 4270 6555 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 4130 6600 50  0001 C CNN
-F 3 "~" H 4200 6600 50  0001 C CNN
-	1    4200 6600
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:R R16
-U 1 1 5E1CB8CA
-P 4200 7000
-F 0 "R16" H 4270 7046 50  0000 L CNN
-F 1 "22K1" H 4270 6955 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 4130 7000 50  0001 C CNN
-F 3 "~" H 4200 7000 50  0001 C CNN
-	1    4200 7000
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	4200 6750 4200 6800
 Wire Wire Line
 	1750 7150 3100 7150
 Wire Wire Line
@@ -1021,9 +997,6 @@ Wire Wire Line
 	3450 6450 3750 6450
 Wire Wire Line
 	3750 6450 3750 6600
-Connection ~ 3750 6450
-Wire Wire Line
-	3750 6450 4200 6450
 Wire Wire Line
 	3100 6900 3100 7150
 Connection ~ 3100 7150
@@ -1036,34 +1009,8 @@ Wire Wire Line
 	3450 7150 3750 7150
 Wire Wire Line
 	3750 6900 3750 7150
-Connection ~ 3750 7150
-Wire Wire Line
-	3750 7150 4200 7150
-Wire Wire Line
-	4200 6800 4000 6800
-Wire Wire Line
-	4000 6800 4000 6950
-Wire Wire Line
-	4000 6950 2150 6950
 Wire Wire Line
 	2150 6950 2150 6550
-Connection ~ 4200 6800
-Wire Wire Line
-	4200 6800 4200 6850
-$Comp
-L power:+3.3V #PWR027
-U 1 1 5E27A265
-P 4200 6000
-F 0 "#PWR027" H 4200 5850 50  0001 C CNN
-F 1 "+3.3V" H 4215 6173 50  0000 C CNN
-F 2 "" H 4200 6000 50  0001 C CNN
-F 3 "" H 4200 6000 50  0001 C CNN
-	1    4200 6000
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	4200 6450 4200 6000
-Connection ~ 4200 6450
 NoConn ~ 1350 6550
 Text Label 2250 6450 0    50   ~ 0
 NET_SW
@@ -1080,4 +1027,57 @@ Wire Wire Line
 Wire Wire Line
 	1650 1500 1100 1500
 NoConn ~ 1100 1300
+Connection ~ 3750 7150
+Connection ~ 3750 6450
+Connection ~ 4200 6450
+Wire Wire Line
+	4200 6450 4200 6000
+$Comp
+L power:+3.3V #PWR027
+U 1 1 5E27A265
+P 4200 6000
+F 0 "#PWR027" H 4200 5850 50  0001 C CNN
+F 1 "+3.3V" H 4215 6173 50  0000 C CNN
+F 2 "" H 4200 6000 50  0001 C CNN
+F 3 "" H 4200 6000 50  0001 C CNN
+	1    4200 6000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4200 6800 4200 6850
+Connection ~ 4200 6800
+Wire Wire Line
+	4000 6950 2150 6950
+Wire Wire Line
+	4000 6800 4000 6950
+Wire Wire Line
+	4200 6800 4000 6800
+Wire Wire Line
+	3750 7150 4200 7150
+Wire Wire Line
+	3750 6450 4200 6450
+Wire Wire Line
+	4200 6750 4200 6800
+$Comp
+L Device:R R16
+U 1 1 5E1CB8CA
+P 4200 7000
+F 0 "R16" H 4270 7046 50  0000 L CNN
+F 1 "22K1" H 4270 6955 50  0000 L CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 4130 7000 50  0001 C CNN
+F 3 "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0805W8F2212T5E_C17552.html" H 4200 7000 50  0001 C CNN
+	1    4200 7000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R15
+U 1 1 5E1CB222
+P 4200 6600
+F 0 "R15" H 4270 6646 50  0000 L CNN
+F 1 "100K" H 4270 6555 50  0000 L CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 4130 6600 50  0001 C CNN
+F 3 "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0805W8F1003T5E_C149504.html" H 4200 6600 50  0001 C CNN
+	1    4200 6600
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
