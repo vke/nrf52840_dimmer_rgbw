@@ -6,6 +6,10 @@ https://github.com/vke/nrf52840_dimmer_rgbw_thread (Thread/OpenThread)
 
 https://github.com/vke/nrf52840_dimmer_rgbw_zigbee (ZigBee, incomplete due to a lot of bugs in ZBOSS ZigBee SDK)
 
+Motherboard with nrf52840 (version 2.05 is used):
+
+https://github.com/vke/EFEKTA-nRF52840-MINI-DEV-BOARD
+
 # Images:
 
 ![bottom](/doc/bottom.png?raw=true "bottom")
